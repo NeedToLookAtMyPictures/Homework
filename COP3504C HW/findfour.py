@@ -30,16 +30,6 @@ def print_board(board):
                 print(f'{board[row][column]}|')
     print(('-' * printWidth).center(printWidth + 2))
 
-'''    
-    for row in board:
-        print('|', end='')
-        for column in range(0, len(row)):
-            if column < width - 1:
-                print(row[column], end=' ')
-            else:
-                print(f'{row[column]}|')
-'''
-
 '''
 Places a chip in the column of the board of the chip type.
 This method should find the next available spot in that column,
