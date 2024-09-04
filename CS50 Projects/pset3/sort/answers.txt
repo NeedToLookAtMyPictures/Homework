@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+5000 = 0.108s, 0.081s, 0.058s ; 10,000 = 0.210s, 0.267, 0.067s ; 50,000 = 5.767s, 5.131s, 0.501s
+How do you know?: The bubble sort has a significant gap in runtime between it's best and worse cases (it takes double the amount of time to sort a worst case txt as opposed to the sorted txts). Also as the scale increases bubble sort becomes less efficient which we saw occur in lecture. So all of this leads me to believe it is a bubble sort.
+
+sort2 uses: merge sort
+5000 = 0.040s, 0.030s, 0.038s ; 10,000 = 0.060s, 0.082s, 0.081s ; 50,000 = 0.714s, 0.619s, 2.051s
+How do you know?: Its runtimes are very nearly identical besides one outsider and out of all of the algorithms sort2 is the most time efficient uniformally. This leads me to believe it is on the order of theta and since it's more efficient than sort3 it is most likely a merge sort.
+
+sort3 uses: selection sort
+5000 = 0.057s, 0.074s, 0.048s ; 10,000 = 0.194s, 0.162s, 0.153s ; 50,000 = 2.401s, 2.697s, 2.468s
+How do you know?: Its runtimes across random-reversed-sorted are nearly identical leading me to believe it's using a selection sort as selection sort is a theta order algorithm.
