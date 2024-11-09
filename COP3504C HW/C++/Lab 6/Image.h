@@ -1,6 +1,3 @@
-//
-// Created by bmmah on 10/17/2024.
-//
 
 #ifndef IMAGE_H
 #define IMAGE_H

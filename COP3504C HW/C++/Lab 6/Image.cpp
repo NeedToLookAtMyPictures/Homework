@@ -1,6 +1,3 @@
-//
-// Created by bmmah on 10/17/2024.
-//
 #include "Image.h"
 #include <iostream>
 
