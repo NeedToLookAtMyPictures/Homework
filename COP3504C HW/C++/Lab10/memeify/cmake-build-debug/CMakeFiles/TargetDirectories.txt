@@ -1,0 +1,5 @@
+C:/Users/bmmah/CLionProjects/C++/Lab10/memeify/cmake-build-debug/CMakeFiles/lab10.dir
+C:/Users/bmmah/CLionProjects/C++/Lab10/memeify/cmake-build-debug/CMakeFiles/package.dir
+C:/Users/bmmah/CLionProjects/C++/Lab10/memeify/cmake-build-debug/CMakeFiles/package_source.dir
+C:/Users/bmmah/CLionProjects/C++/Lab10/memeify/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bmmah/CLionProjects/C++/Lab10/memeify/cmake-build-debug/CMakeFiles/rebuild_cache.dir
