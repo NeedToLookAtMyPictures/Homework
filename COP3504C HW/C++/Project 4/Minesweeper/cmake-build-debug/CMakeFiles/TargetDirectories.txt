@@ -1,0 +1,5 @@
+C:/Users/bmmah/CLionProjects/C++/Project 4/Minesweeper/cmake-build-debug/CMakeFiles/Minesweeper.dir
+C:/Users/bmmah/CLionProjects/C++/Project 4/Minesweeper/cmake-build-debug/CMakeFiles/package.dir
+C:/Users/bmmah/CLionProjects/C++/Project 4/Minesweeper/cmake-build-debug/CMakeFiles/package_source.dir
+C:/Users/bmmah/CLionProjects/C++/Project 4/Minesweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bmmah/CLionProjects/C++/Project 4/Minesweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
